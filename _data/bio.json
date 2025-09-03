@@ -9,7 +9,7 @@
     "location": { "address": "", "postalCode": "96819", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "oomorijosh", "url": "http://github.com/oomorijosh" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/joshua-omori-5t921/" },
+      { "network": "linkedin", "username": "oomorijosh", "url": "http://linkedin.com/in/joshua-omori-5t921/" },
     ]
   },
   "interests": [
@@ -26,7 +26,7 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science",
       "studyType": "B.S.",
       "startDate": "2020-09-01",
       "endDate": "Present",
