@@ -2,9 +2,9 @@
   "basics": {
     "name": "Joshua Omori",
     "label": "Student",
-    "picture": "https://github.com/old-oomorijosh.png",
+    "picture": "https://github.com/oomorijosh.png",
     "email": "omorijos@hawaii.edu",
-    "website": "https://old-oomorijosh.github.io",
+    "website": "https://oomorijosh.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate 2026.  I hope to lesrn about data strucutres, video game design, and AI to determine my interests.",
     "location": { "address": "", "postalCode": "96819", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
