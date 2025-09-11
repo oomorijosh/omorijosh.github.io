@@ -32,7 +32,7 @@ A question might seem “dumb” if it’s:
   - *e.g., after a presentation clearly stating the deadline: “Wait, what’s the deadline?”*
 
 **Context is key.** The time, place, and audience all affect how a question is received.  
-For example, asking, “What was his name again?” after meeting someone is usually fine. But asking that same question loudly at a funeral might not be appropriate.
+For example, asking, “What was his name again?” after meeting someone is usually fine. But asking that same question at a funeral might not be appropriate.
 
 ---
 
