@@ -8,8 +8,8 @@ published: true
 labels:
   - JavaScript
   - TypeScript
-  - ICS 311
-  - WODs
+  - Software Engineering (ICS 311)
+  - Athletic Software Engineering (WODs)
 ---
 
 ## The setting…
