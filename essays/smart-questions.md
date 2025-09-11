@@ -57,6 +57,7 @@ In contrast, dumb questions often:
 
 ### Dumb Question Examples (from Stack Overflow)
 
+<br />
 
 #### 1. Java main function won't compile with a method in it
 
