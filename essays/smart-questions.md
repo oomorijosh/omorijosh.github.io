@@ -128,7 +128,7 @@ This is a **smart question** because:
 
 ## Conclusion
 
-Whether a question is considered smart or dumb depends largely on **context**. For example, asking Google *“How do I get input from a user in Java?”* is perfectly fine—sometimes we just need a refresher. However, posting that same question on a professional forum without showing any effort makes it seem lazy or thoughtless.
+Whether a question is considered smart or dumb depends largely on context. For example, asking Google “How do I get input from a user in Java?” is perfectly fine; sometimes we just need a refresher. However, posting that same question on a professional forum without showing any effort makes it seem lazy or thoughtless.
 
 If you're unsure how to phrase a good technical question, a great resource is Eric Steven Raymond’s essay:
   ["How to Ask Questions the Smart Way"](http://www.catb.org/esr/faqs/smart-questions.html)
