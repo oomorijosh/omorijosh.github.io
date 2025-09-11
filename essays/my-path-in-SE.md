@@ -6,8 +6,7 @@ title: "Exploring My Path in Software Engineering"
 date: 2025-09-07
 published: true
 labels:
-  - JavaScript
-  - TypeScript
+  - Technical Essay
   - Software Engineering (ICS 311)
 ---
 
