@@ -53,11 +53,15 @@ In contrast, dumb questions often:
 - Look like homework questions with no attempt shown
 - Spam multiple threads, wasting other users’ time
 
+---
+
 ### Dumb Question Examples (from Stack Overflow)
+
 
 #### 1. Java main function won't compile with a method in it
 
-> *“I am using NetBeans to learn basic Java stuff right now, and I have looked around and I cannot figure out what is wrong with this...”*
+> *I am using Netbeans to learn basic Java stuff right now, and I have looked around and I cannot figure out what is wrong with this. I am unable to make any kind of method in the "main" function because it does not compile. I get an error saying <br /><br /> `error: illegal start of expression: public String method(int a){`
+
 
 ```java
 public class JavaApplication3 {
@@ -70,17 +74,17 @@ public class JavaApplication3 {
 ```
 
 This question is considered “dumb” because:
-- The issue (you can't declare a method inside `main`) is basic Java syntax
+- Spelling Mistakes
 - It's easily searchable
 - It reflects a lack of prior effort or understanding
 
 [Source](https://stackoverflow.com/questions/44013965/java-main-function-wont-compile-with-a-method-in-it)
 
----
+<br />
 
-#### 2. Removing multiple occurrences of alphabets in a word
+#### 2. removing multiple occurences of alphabets in a word
 
-> *“I want to remove multiple occurrences of a character using a single array. Say the word entered is ‘APPLE’ then the output should be ‘APLE’...”*
+> *“I want to remove multiple occurrences of a character using a single array. Say the word entered is "APPLE" then the output should be "APLE". Similarly for "Soccer" it should be "Socer" <br /><br /> Please help."*
 
 This question is problematic because:
 
@@ -96,7 +100,7 @@ This question is problematic because:
 
 #### What is the `-->` operator in C/C++?
 
-> *“After reading Hidden Features and Dark Corners of C++/STL... I was surprised that this snippet worked in both Visual Studio and G++...”*
+> *After reading Hidden Features and [Dark Corners of C++/STL](https://groups.google.com/access-error?continue=https://groups.google.com/g/comp.lang.c%2B%2B.moderated/c/-/m/IN1YDXhz8TMJ?pli%3D1) on comp.lang.c++.moderated, I was completely surprised that the following snippet compiled and worked in both Visual Studio 2008 and G++ 4.4. I would assume this is also valid C since it works in GCC as well. <br /> <br /> Here's the code:*
 
 ```c
 int x = 10;
@@ -104,6 +108,11 @@ while (x --> 0) {
     printf("%d ", x);
 }
 ```
+> *Output:*
+```
+9 8 7 6 5 4 3 2 1 0
+```
+> *Where is this defined in the standard, and where has it come from?*
 
 This is a **smart question** because:
 
